@@ -1,0 +1,7 @@
+﻿  Console.cpp
+E:\Cooding\star_game\star_game\Console.cpp(14,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\Cooding\star_game\star_game\Console.cpp(14,20): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  main.cpp
+E:\Cooding\star_game\star_game\main.cpp(221,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  star_game.vcxproj -> E:\Cooding\star_game\x64\Debug\star_game.exe
